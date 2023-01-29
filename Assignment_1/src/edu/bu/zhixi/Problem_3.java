@@ -1,3 +1,5 @@
+package edu.bu.zhixi;
+
 public class Problem_3 {
 
     /*

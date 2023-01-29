@@ -1,3 +1,5 @@
+package edu.bu.zhixi;
+
 import java.util.*;
 
 public class Problem_5 {
